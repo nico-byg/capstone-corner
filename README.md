@@ -1,6 +1,3 @@
-# capstone-corner
-Computer Science Capstone Project Work
-
 # Capstone Corner: Computer Science ePortfolio
 **Nick Colby**  
 GitHub Repository: [github.com/nico-byg/capstone-corner](https://github.com/nico-byg/capstone-corner/tree/main)
