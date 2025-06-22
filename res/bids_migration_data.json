@@ -1,0 +1,42 @@
+{
+    "numberOfFiles": 2,
+    "csvFiles": {
+        "file_1": "res\\bids_sample.csv",
+        "file_2": "res\\sample_data.csv"
+    },
+    "db_conn_string": "mongodb://dataUser:Passw0rd%5E@localhost:27017/?authSource=bidsData",
+    "headers": {
+        "res\\bids_sample.csv": [
+            [
+                "ArticleTitle",
+                "ArticleID",
+                "Department ",
+                "CloseDate ",
+                "WinningBid ",
+                "InventoryID",
+                "VehicleID",
+                "ReceiptNumber ",
+                "Fund"
+            ]
+        ],
+        "res\\sample_data.csv": [
+            [
+                "Column1",
+                "Column2",
+                "Column3",
+                "Column4",
+                "Column5",
+                "Column6",
+                "Column7",
+                "Column8",
+                "Column9",
+                "Column10",
+                "Column11",
+                "Column12",
+                "Column13",
+                "Column14",
+                "Column15"
+            ]
+        ]
+    }
+}
